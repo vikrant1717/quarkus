@@ -97,6 +97,10 @@
 
         <!-- TestNG version: we don't enforce it in the BOM as it is mostly used in the MP TCKs and we need to use the version from the TCKs -->
         <testng.version>7.8.0</testng.version>
+     
+        <sonar.organization>vikrant1717</sonar.organization>
+
+             
     </properties>
 
     <modules>
